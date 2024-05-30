@@ -186,3 +186,8 @@ git status
 git remote add origin git@github.com:shibozh/worldcup-project.git
 git remote set-url origin git@github.com:shibozh/worldcup-project.git
 git add .
+git commit -m "initial"
+git push -u origin main
+git remote -v
+git remote set-url origin https://github.com/shibozh/worldcup-project
+git add .
